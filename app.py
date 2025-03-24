@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 from pandas.tseries.offsets import BDay
 import numpy as np
-import plotly.express as px
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.grid import grid
 import requests
